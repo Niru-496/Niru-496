@@ -23,11 +23,11 @@
 <p align="left" >   &nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a> </p>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=niru-496&show_icons=true&locale=en&layout=compact" alt="niru-496" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niru-496&show_icons=true&locale=en&layout=compact" alt="niru-496" /></p>
 
-<p>&nbsp;<img align="rght" src="https://github-readme-stats.vercel.app/api?username=niru-496&show_icons=true&locale=en" alt="niru-496" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niru-496&show_icons=true&locale=en" alt="niru-496" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=niru-496&" alt="niru-496" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niru-496&" alt="niru-496" /></p>
 
 <br/>
 <br/>
