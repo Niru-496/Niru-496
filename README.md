@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Niranjan Kumar M</h1>
-<h3 align="center">A passionate Full-Stack developer</h3>
+<h3 align="center">A passionate Full-Stack Web developer [ MERN Stack ] </h3>
 
 - 🌱 I’m currently learning **React**
+- 🤝 I’m looking for help with **Rust Language**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SDujF1eXc0dtcmvNnM0sMnHTw8o_QD3A/view?usp=sharing](https://drive.google.com/file/d/1SDujF1eXc0dtcmvNnM0sMnHTw8o_QD3A/view?usp=sharing)
+
+- ⚡ Intrested in **Web 3.0 Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +24,7 @@
 <br/>
 
 <h2 align="left"> 🛠 Other Tools:</h2>
-<p align="left" >   &nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a> </p>
+<p align="left" >   &nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niru-496&show_icons=true&locale=en&layout=compact" alt="niru-496" /></p>
