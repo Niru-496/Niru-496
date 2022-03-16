@@ -15,15 +15,15 @@
 <br/>
 
 <h2 align="left"> ⚙ Back-End Tools:</h2>
-<p align="left" >  <a  href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>  &nbsp;&nbsp;&nbsp; <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>  &nbsp;&nbsp;&nbsp;<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> </a> </p>
+<p align="left" >  <a  href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>  &nbsp;&nbsp;&nbsp; <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>  &nbsp;&nbsp;&nbsp; </p>
 
 <br/>
 
 <h2 align="left"> 🛠 Other Tools:</h2>
-<p align="left" > <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>  &nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a> </p>
+<p align="left" >   &nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niru-496&show_icons=true&locale=en&layout=compact" alt="niru-496" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niru-496&show_icons=true&locale=en&layout=compact" alt="niru-496" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niru-496&show_icons=true&locale=en" alt="niru-496" /></p>
 
