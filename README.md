@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Niranjan Kumar M</h1>
-<h3 align="center">A passionate Full-Stack Web developer [ MERN Stack ] </h3>
+<h3 align="center">A Cyber Security | SOC enthusiast] </h3>
 
-- 🌱 I’m currently learning **React**
-- 🤝 I’m looking for help with **Rust Language**
+- 🌱 I’m currently learning **SOAR**
+- 🤝 I’m looking for help with **Python Language**
 - 👨‍💻 All of my projects are available at [https://niru-portfolio.vercel.app/](https://niru-portfolio.vercel.app/)
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SDujF1eXc0dtcmvNnM0sMnHTw8o_QD3A/view?usp=sharing](https://drive.google.com/file/d/1SDujF1eXc0dtcmvNnM0sMnHTw8o_QD3A/view?usp=sharing)
 
